@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-base64-encode-decode",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "base64-encode-decode",
+    "description": "Automatically encodes 'payload' named request attributes values to Base64 before sending request, and does the reverse for the 'payload' named response attributes values."
+  },
+  "main": "main.js"
+}
